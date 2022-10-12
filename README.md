@@ -1,11 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?scarymonsters=anuraghazra&theme=dark&show_icons=true)
-- 👋 Hi, I’m @scarymonsters
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![](https://github-profile-trophy.vercel.app/?username=scarymonsters&row=1)
 
-<!---
-scarymonsters/scarymonsters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![scarymonsters's github stats](https://github-readme-stats.vercel.app/api?username=scarymonsters&theme=blue-green)](https://github.com/scarymonsters/github-readme-stats)
+
+## 🔗 Contacts:
+
+[![Twitter](https://img.shields.io/badge/--twitter?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/scarymonsters/)
+[![Telegram](https://img.shields.io/badge/Telegram-scarymonsters-blue)](https://t.me/scarymonsters)
