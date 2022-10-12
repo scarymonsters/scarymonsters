@@ -1,6 +1,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=scarymonsters&row=1)
 
-[![scarymonsters's github stats](https://github-readme-stats.vercel.app/api?username=scarymonsters&theme=blue-green)](https://github.com/scarymonsters/github-readme-stats)
+[![scarymonsters's github stats](https://github-readme-stats.vercel.app/api?username=scarymonsters&theme=dracula)](https://github.com/scarymonsters/github-readme-stats)
 
 ## 🔗 Contacts:
 
