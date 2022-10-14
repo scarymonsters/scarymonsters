@@ -11,13 +11,15 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-    outputs: 
-          dark.svg?palette=github-dark&color_snake=blue
-          light.svg?color_snake=#7845ab
-          ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-          
+
         with:
           github_user_name: scarymonsters
+          
+          outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
