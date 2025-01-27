@@ -16,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=threejs" hspace="3" title="Three JS"/>
   <img src="https://skillicons.dev/icons?i=mongodb" hspace="3" title="MongoDB"/> 
   <img src="https://skillicons.dev/icons?i=mysql" hspace="3" title="MySQL"/> 
-  <img src="https://skillicons.dev/icons?i=prisma" hspace="3" title="Prisma"/>
 </div>
 
 <br>
